@@ -2,6 +2,11 @@
 
 We are a multidisciplinary research group based at the University of Glasgow, led by **Professor Gwo-Tzer Ho**, with a mission to advance our understanding of gut biology and disease-specific mechanisms in **Inflammatory Bowel Disease (IBD)**. Our work bridges basic discovery science with translational research, focusing on immune-metabolism, biomarker discovery, and interventional trials.
 
+## 🧪 Current Clinical Studies
+
+- **[MARVEL Study](https://www.marvelstudy.uk)**: A UK multi-center Phase 2 RCT investigating the use of oral mitochondrial antioxidants in Ulcerative Colitis.
+- **[MUSIC Study](https://www.musicstudy.uk)**: A Scotland-wide prospective longitudinal cohort study exploring mitochondrial danger signals and gut healing in IBD.
+
 ## 🌟 Our Research Focus
 
 Our group is dedicated to uncovering the mechanisms underlying gut health and disease, with a strong emphasis on **human patient data** and **biosamples**. Key areas of research include:
@@ -14,11 +19,6 @@ Our group is dedicated to uncovering the mechanisms underlying gut health and di
 - **Novel Diagnostic Technologies**: Developing mitochondrial and metabolic markers, including the ERC-funded IDXsense project for Granzyme B tests to stratify T-cell responses in IBD.
 - **Imaging Approaches (FATE-CD)**: Using PET-MRI FAPI scanning to monitor fibrosis in Crohn’s disease.
 - **Macrophage Biology in Crohn’s Disease**: Investigating immune cell behavior in IBD.
-
-## 🧪 Current Clinical Studies
-
-- **[MARVEL Study](https://www.marvelstudy.uk)**: A UK multi-center Phase 2 RCT investigating the use of oral mitochondrial antioxidants in Ulcerative Colitis.
-- **[MUSIC Study](https://www.musicstudy.uk)**: A Scotland-wide prospective longitudinal cohort study exploring mitochondrial danger signals and gut healing in IBD.
 
 ## 🔬 Experimental Platforms
 
