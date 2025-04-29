@@ -6,8 +6,8 @@ We are a multidisciplinary research group based at the University of Glasgow, le
 
 Our group is dedicated to uncovering the mechanisms underlying gut health and disease, with a strong emphasis on **human patient data** and **biosamples**. Key areas of research include:
 
-- **Mitochondrial Danger Signals in IBD (MUSIC Study)**: A Scotland-wide longitudinal cohort study exploring how the gut heals in IBD using clinical and multi-omic approaches.
-- **Mitochondrial Antioxidant Therapy (MARVEL Study)**: A UK multicenter Phase 2 RCT investigating oral mitochondrial antioxidants in Ulcerative Colitis.
+- **Mitochondrial DAMPs as mechanistic biomarkers of gut mucosal inflammation in adults and children. (MUSIC Study)**: A Scotland-wide longitudinal cohort study exploring how the gut heals in IBD using clinical and multi-omic approaches.
+- **Mitochondrial Antioxidant Therapy to Resolve Inflammation in Ulcerative Colitis. (MARVEL Study)**: A UK multicenter Phase 2 RCT investigating oral mitochondrial antioxidants in Ulcerative Colitis.
 - **Oral-Gut Microbiome Interactions**: Studying immune responses in Crohn’s disease.
 - **Fatigue in IBD**: Large-scale characterization of IBD-associated fatigue to uncover mechanisms and develop therapeutic approaches.
 - **Metabolic Approaches to Gut Repair**: Using patient-derived organoids to enhance gut healing.
@@ -17,8 +17,8 @@ Our group is dedicated to uncovering the mechanisms underlying gut health and di
 
 ## 🧪 Current Clinical Studies
 
-- **[MARVEL Study](https://www.marvelstudy.uk)**: A UK multicenter Phase 2 RCT investigating the use of oral mitochondrial antioxidants in Ulcerative Colitis.
-- **[MUSIC Study](https://www.musicstudy.uk)**: A Scotland-wide longitudinal cohort study exploring mitochondrial danger signals and gut healing in IBD.
+- **[MARVEL Study](https://www.marvelstudy.uk)**: A UK multi-center Phase 2 RCT investigating the use of oral mitochondrial antioxidants in Ulcerative Colitis.
+- **[MUSIC Study](https://www.musicstudy.uk)**: A Scotland-wide prospective longitudinal cohort study exploring mitochondrial danger signals and gut healing in IBD.
 
 ## 🔬 Experimental Platforms
 
@@ -56,6 +56,5 @@ Check out our repositories for collaborative projects, tools, and resources rela
 We welcome collaborations and discussions! Feel free to reach out to us:
 
 - **Website**: [The Gut Translational Research Group](https://www.gla.ac.uk/schools/infectionimmunity/staff/gwotzerho/theguttranslationalresearchgroup/)
-- **GitHub**: [github.com/1-gut](https://github.com/1-gut)
 
 Thank you for visiting our profile! Together, we can advance the science of gut health and improve outcomes for patients with IBD.
